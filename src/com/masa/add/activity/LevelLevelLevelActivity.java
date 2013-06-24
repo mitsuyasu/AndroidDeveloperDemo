@@ -1,12 +1,10 @@
 package com.masa.add.activity;
 
-import com.masa.add.R;
-import com.masa.add.R.layout;
-import com.masa.add.R.menu;
-
-import android.os.Bundle;
 import android.app.Activity;
+import android.os.Bundle;
 import android.view.Menu;
+
+import com.masa.add.R;
 
 public class LevelLevelLevelActivity extends Activity {
 

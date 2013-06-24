@@ -31,8 +31,42 @@
             <meta-data
                 android:name="@string/isLaunchableActivity"
                 android:value="true" />
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="com.masa.add.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.masa.add.activity.LevelLevelActivity"
+            android:label="@string/title_activity_level_level" >
+            <meta-data
+                android:name="@string/minVersion"
+                android:value="8" />
+            <meta-data
+                android:name="@string/isLaunchableActivity"
+                android:value="true" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="com.masa.add.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.masa.add.activity.LevelLevelLevelActivity"
+            android:label="@string/title_activity_level_level_level" >
+            <meta-data
+                android:name="@string/minVersion"
+                android:value="8" />
+            <meta-data
+                android:name="@string/isLaunchableActivity"
+                android:value="true" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="com.masa.add.category.SAMPLE_CODE" />
             </intent-filter>
         </activity>

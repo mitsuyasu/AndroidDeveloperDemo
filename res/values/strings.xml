@@ -9,5 +9,6 @@
     <string name="menu_settings">Settings</string>
     <string name="title_activity_sample">SampleActivity</string>
     <string name="title_activity_level_level">Level/LevelActivity</string>
+    <string name="title_activity_level_level_level">Level/Level2/LevelActivity</string>
 
 </resources>

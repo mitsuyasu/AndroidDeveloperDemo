@@ -11,5 +11,6 @@
     <string name="title_activity_level_level">Level/LevelActivity</string>
     <string name="title_activity_level_level_level">Level/Level2/LevelActivity</string>
     <string name="title_activity_gallery">Gallery/Normal</string>
+    <string name="title_activity_gallery_square">Gallery/Square</string>
 
 </resources>

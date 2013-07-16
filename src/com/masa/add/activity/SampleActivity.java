@@ -20,5 +20,8 @@ public class SampleActivity extends Activity {
 		getMenuInflater().inflate(R.menu.activity_sample, menu);
 		return true;
 	}
-
+	
+	public void a(){
+		
+	}
 }

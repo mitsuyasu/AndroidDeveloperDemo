@@ -24,4 +24,8 @@ public class SampleActivity extends Activity {
 	public void a(){
 		
 	}
+	public boolean b(){
+		return true;
+	}
+
 }

@@ -121,6 +121,23 @@
             </intent-filter>
         </activity>
         
+        <activity
+            android:name="com.masa.add.activity.RunningAppProcessInfoActivity"
+            android:label="@string/title_activity_running_app_process_info" >
+            <meta-data
+                android:name="@string/minVersion"
+                android:value="8" />
+            <meta-data
+                android:name="@string/isLaunchableActivity"
+                android:value="true" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="com.masa.add.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+        
         <service android:name="com.masa.add.service.LayerService" ></service>
     </application>
 

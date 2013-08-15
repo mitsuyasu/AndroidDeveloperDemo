@@ -13,5 +13,7 @@
     <string name="title_activity_gallery">Gallery/Normal</string>
     <string name="title_activity_gallery_square">Gallery/Square</string>
     <string name="title_activity_overlay">OverlayActivity</string>
+    <string name="title_activity_running_app_process_info">RunningAppProcessInfoActivity</string>
+    
 
 </resources>
